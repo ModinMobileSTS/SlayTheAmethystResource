@@ -1,0 +1,11 @@
+[
+  {
+    "name": "SkipTheSpire",
+    "file_name": "SkipTheSpire-1.0.0.jar",
+    "description": "Skip startup splash animation and go directly to the main menu.",
+    "version": "1.0.0",
+    "author": "apric",
+    "url": "",
+    "dependencies": []
+  }
+]
