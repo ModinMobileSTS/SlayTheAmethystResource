@@ -1,5 +1,26 @@
 [
-    {
+  {
     "modid": "examplemod",
-    "suggestion": "This mod is an example and may not be compatible with all versions of Minecraft. Please check the mod's documentation for compatibility information."}
+    "suggestion": "This mod is an example and may not be compatible with all versions of Minecraft. Please check the mod's documentation for compatibility information."
+  },
+  {
+    "modid": "image_io_compat",
+    "notification": "该模组为机板专用，已弃用，请删除。"
+  },
+  {
+    "modid": "stsm-render-fixer",
+    "notification": "该模组为机板专用，已弃用，请删除。"
+  },
+  {
+    "modid": "stsmaudiofixer",
+    "notification": "该模组为机板专用，已弃用，请删除。"
+  },
+  {
+    "modid": "ypp-rpc",
+    "notification": "如果游戏内未生效，请检查是否从机板导出的该模组，如果是，请去创意工坊下载官方版。",
+  },
+  {
+    "modid": "sts-metrics",
+    "notification": "前置模组：ypp-rpc，可以搜索 STS service framework 找到。"
+  }
 ]

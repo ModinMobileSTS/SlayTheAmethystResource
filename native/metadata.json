@@ -1,27 +1,23 @@
 [
     {
-        "card_name": "Tensorflow",
-        "card_files": [
+        "name": "Tensorflow",
+        "files": [
             {
-                "name": "tensorflow native 1",
-                "file_name": "libjnitensorflow.so",
-                "description": "Slay I 模组依赖这个原生库"
+                "file_name": "libjnitensorflow.so"
             },
             {
-                "name": "tensorflow native 2",
-                "file_name": "libjnitensorflow.so2",
-                "description": "Slay I 模组依赖这个原生库"
+                "file_name": "libjnitensorflow.so2"
             }
-        ]
+        ],
+        "description": "Slay I 模组依赖这个原生库"
     },
     {
-        "card_name": "Libgdx Video",
-        "card_files": [
+        "name": "Libgdx Video",
+        "files": [
             {
-                "name": "video native",
-                "file_name": "libgdx-video-desktoparm64.so",
-                "description": "小圆模组等需要播放视频的模组依赖这个原生库"
+                "file_name": "libgdx-video-desktoparm64.so"
             }
-        ]
+        ],
+        "description": "小圆模组等需要播放视频的模组依赖这个原生库"
     }
 ]
