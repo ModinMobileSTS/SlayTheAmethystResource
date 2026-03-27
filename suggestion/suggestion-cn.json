@@ -17,10 +17,30 @@
   },
   {
     "modid": "ypp-rpc",
-    "notification": "如果游戏内未生效，请检查是否从机板导出的该模组，如果是，请去创意工坊下载官方版。",
+    "notification": "如果游戏内未生效，请检查是否从机板导出的该模组，如果是，请去创意工坊下载官方版。"
   },
   {
     "modid": "sts-metrics",
     "notification": "前置模组：ypp-rpc，可以搜索 STS service framework 找到。"
+  },
+  {
+    "modid": "sts-metrics",
+    "notification": "前置模组：ypp-rpc，可以搜索 STS service framework 找到。"
+  },
+  {
+    "modid": "ShionUnlock",
+    "notification": "启用该模组后，在游戏内的 mods 设置界面可取消紫音和谐。"
+  },
+  {
+    "modid": "VUPShionMod",
+    "notification": "紫音模组属于大型模组，建议不要将其他模组和紫音同时启用，避免带来崩溃、发热、卡顿等问题。如果你的紫音是在启动器 v1.1.5 之前导入的，请重新导入，让启动器能够正确对紫音进行修补。如果该模组好玩，记得去 steam 创意工坊订阅该模组或是前往作者爱发电支持作者"
+  },
+  {
+    "modid": "FightPredictor",
+    "notification": "请在原生库市场下载依赖的原生库，否则会出现崩溃的问题。"
+  },
+  {
+    "modid": "KanameMadoka",
+    "notification": "请在原生库市场下载依赖的原生库，否则视频无法播放，第二层 Boss 战会卡死。"
   }
 ]
