@@ -53,7 +53,7 @@
   },
   {
     "modid": "shadowverse ",
-    "notification": "请勿和 shadowverse_maps 模组一起启用，shadowverse_maps 是将该模组的地图单独抽离出来了，两个模组一起启用会导致崩溃。"
+    "notification": "可以和 shadowverse_maps 模组一起启用。"
   },
   {
     "modid": "togawasakikomod",
