@@ -6,7 +6,7 @@
                 "file_name": "tensorflow-android-arm64-build.zip"
             }
         ],
-        "description": "Slay I 模组依赖这个原生库"
+        "description": "Slay I 模组依赖这个原生库，如需要下载，请保证启动器版本大于 v1.1.10。"
     },
     {
         "name": "Libgdx Video",
