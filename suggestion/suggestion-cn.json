@@ -58,5 +58,9 @@
   {
     "modid": "togawasakikomod",
     "notification": "该模组的前置是 actlikeit，如果该模组导致崩溃，请开启 actlikeit。"
+  },
+  {
+    "modid": "Henkuth SFW",
+    "notification": "该模组的前置是废墟图书馆，请手动开启。"
   }
 ]
