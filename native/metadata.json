@@ -3,10 +3,7 @@
         "name": "Tensorflow",
         "files": [
             {
-                "file_name": "libjnitensorflow.so"
-            },
-            {
-                "file_name": "libjnitensorflow.so2"
+                "file_name": "tensorflow-android-arm64-build.zip"
             }
         ],
         "description": "Slay I 模组依赖这个原生库"
