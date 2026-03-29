@@ -15,6 +15,6 @@
                 "file_name": "libgdx-video-desktoparm64.so"
             }
         ],
-        "description": "小圆模组等需要播放视频的模组依赖这个原生库"
+        "description": "小圆/日奈等需要播放视频的模组依赖这个原生库"
     }
 ]
