@@ -45,7 +45,7 @@
   },
   {
     "modid": "KanameMadoka",
-    "notification": "请在原生库市场下载依赖的原生库，否则视频无法播放，第二层 Boss 战会卡死。"
+    "notification": "请在原生库市场下载依赖的原生库 gdx-video，否则视频无法播放，第二层 Boss 战会卡死。"
   },
   {
     "modid": "FrierenMod",
@@ -65,6 +65,10 @@
   },
   {
     "modid": "Blue archive Hina mod",
-    "notification": "请在原生库市场下载依赖的原生库，否则视频无法播放，启用3D模型会卡死。"
+    "notification": "请在原生库市场下载依赖的原生库 gdx-video，否则视频无法播放，启用3D模型会卡死。"
+  },
+  {
+    "modid": "VideoTheSpire",
+    "notification": "请在原生库市场下载依赖的原生库 gdx-video，否则视频无法播放。"
   }
 ]
