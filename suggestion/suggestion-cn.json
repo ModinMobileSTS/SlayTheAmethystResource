@@ -70,5 +70,21 @@
   {
     "modid": "VideoTheSpire",
     "notification": "请在原生库市场下载依赖的原生库 gdx-video，否则视频无法播放。"
+  },
+  {
+    "modid": "shadowverse_maps",
+    "notification": "此模组对手机性能要求高，谨慎开启。"
+  },
+  {
+    "modid": "undothespire",
+    "notification": "此模组仅兼容原版角色，且兼容性不佳，如果在使用该 mod 时崩溃，请勿上报。"
+  },
+  {
+    "modid": "chaofanmod",
+    "notification": "该模组调用了 steam 相关的库，暂无法使用。"
+  },
+  {
+    "modid": "DownfallFeminization",
+    "notification": "如果崩溃，请点击展开模组卡片后，设置该模组为优先加载。"
   }
 ]
