@@ -1,9 +1,5 @@
 [
   {
-    "modid": "examplemod",
-    "suggestion": "This mod is an example and may not be compatible with all versions of Minecraft. Please check the mod's documentation for compatibility information."
-  },
-  {
     "modid": "image_io_compat",
     "notification": "该模组为机板专用，已弃用，请删除。"
   },
