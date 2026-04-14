@@ -86,5 +86,12 @@
   {
     "modid": "superfastmode",
     "notification": "如果出现拿鸟笼或农盒出现无法点确认的情况，有两个解决方法：1. 设置里关掉触摸输入。 2. superfast 设置里关闭 instant 模式。"
+  },
+  {
+    "modid": "superfastmode",
+    "notification": "如果出现拿鸟笼或农盒出现无法点确认的情况，有两个解决方法：1. 设置里关掉触摸输入。 2. superfast 设置里关闭 instant 模式。"
+  } , {
+    "modid": "spireTogether ",
+    "notification": "点击鼠标悬浮窗来打开键盘。"
   }
 ]
