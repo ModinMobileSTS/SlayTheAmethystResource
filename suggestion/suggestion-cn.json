@@ -20,24 +20,16 @@
     "notification": "前置模组：ypp-rpc，可以搜索 STS service framework 找到。"
   },
   {
-    "modid": "sts-metrics",
-    "notification": "前置模组：ypp-rpc，可以搜索 STS service framework 找到。"
-  },
-  {
     "modid": "ShionUnlock",
     "notification": "启用该模组后，在游戏内的 mods 设置界面可取消紫音和谐。"
   },
   {
     "modid": "VUPShionMod",
-    "notification": "推荐使用大于等于 12G 的设备游玩，如果设备内存较小，可以适量调低 JVM 堆大小。紫音模组属于大型模组，建议不要将其他模组和紫音同时启用，避免带来崩溃、发热、卡顿等问题。如果你的紫音是在启动器 v1.1.5 之前导入的，请重新导入，让启动器能够正确对紫音进行修补。如果该模组好玩，记得去 steam 创意工坊订阅该模组或是前往作者爱发电支持作者！"
+    "notification": "紫音模组属于大型模组，建议不要将其他模组和紫音同时启用，避免带来崩溃、发热、卡顿等问题。如果你的紫音是在启动器 v1.1.5 之前导入的，请重新导入，让启动器能够正确对紫音进行修补。如果该模组好玩，记得去 steam 创意工坊订阅该模组或是前往作者爱发电支持作者！通过下载紫音 Unlock 模组并调整模组配置来去除紫音小人遮挡和谐。"
   },
   {
     "modid": "FightPredictor",
     "notification": "此模组已经支持，请在原生库市场下载所需的原生库。"
-  },
-  {
-    "modid": "KanameMadoka",
-    "notification": "请在原生库市场下载依赖的原生库，否则视频无法播放，第二层 Boss 战会卡死。"
   },
   {
     "modid": "KanameMadoka",
@@ -88,15 +80,19 @@
     "notification": "如果出现拿鸟笼或农盒出现无法点确认的情况，有两个解决方法：1. 设置里关掉触摸输入。 2. superfast 设置里关闭 instant 模式。"
   },
   {
-    "modid": "superfastmode",
-    "notification": "如果出现拿鸟笼或农盒出现无法点确认的情况，有两个解决方法：1. 设置里关掉触摸输入。 2. superfast 设置里关闭 instant 模式。"
-  },
-  {
     "modid": "spireTogether",
-    "notification": "点击鼠标悬浮窗来打开键盘。"
+    "notification": "点击右侧的鼠标悬浮窗来打开键盘。"
   },
   {
     "modid": "chronoMods",
     "notification": "该模组不支持，如果需要联机请使用 spire together。"
+  },
+  {
+    "modid": "haveaclearconsciencemod",
+    "notification": "该模组已知存在触发问心无愧后回到主菜单无法继续游戏的问题，请谨慎使用。"
+  },
+  {
+    "modid": "TrizonMod ",
+    "notification": "该模组存在融合卡片不可用的问题，启动器暂未添加修复。临时解决办法是将输入模式从混合调成仅电脑输入模式。"
   }
 ]
