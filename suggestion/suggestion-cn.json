@@ -69,7 +69,7 @@
   },
   {
     "modid": "chaofanmod",
-    "notification": "该模组调用了 steam 相关的库，暂无法使用。"
+    "notification": "该模组调用了 steam 相关的库，启动器在 v1.4.12+ 做了兼容，如果需要游玩该模组，请升级启动器版本并删除该模组重新导入。"
   },
   {
     "modid": "DownfallFeminization",
@@ -93,6 +93,6 @@
   },
   {
     "modid": "TrizonMod ",
-    "notification": "该模组存在融合卡片不可用的问题，启动器暂未添加修复。临时解决办法是将输入模式从混合调成仅电脑输入模式。"
+    "notification": "该模组存在融合卡片不可用的问题，启动器在 v1.4.11 修复。临时解决办法是将输入模式从混合调成仅电脑输入模式。"
   }
 ]
