@@ -92,7 +92,11 @@
     "notification": "该模组已知存在触发问心无愧后回到主菜单无法继续游戏的问题，请谨慎使用。"
   },
   {
-    "modid": "TrizonMod ",
-    "notification": "该模组存在融合卡片不可用的问题，启动器在 v1.4.11 修复。临时解决办法是将输入模式从混合调成仅电脑输入模式。"
+    "modid": "TrizonMod",
+    "notification": "该模组存在融合卡片不可用的问题，启动器在 v1.4.11 修复。"
+  },
+  {
+    "modid": "coloredmap",
+    "notification": "该模组不兼容“更大的 UI”，请在启用该模组时，在设置-游戏-更大的 UI 中关闭该选项。"
   }
 ]
