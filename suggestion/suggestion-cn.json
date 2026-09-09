@@ -33,7 +33,7 @@
   },
   {
     "modid": "KanameMadoka",
-    "notification": "请在原生库市场下载依赖的原生库 gdx-video，否则视频无法播放，第二层 Boss 战会卡死。"
+    "notification": "请在原生库市场下载依赖的原生库 Libgdx Video，否则视频无法播放，第二层 Boss 战会卡死。"
   },
   {
     "modid": "FrierenMod",
@@ -53,11 +53,11 @@
   },
   {
     "modid": "Blue archive Hina mod",
-    "notification": "请在原生库市场下载依赖的原生库 gdx-video，否则视频无法播放，启用3D模型会卡死。"
+    "notification": "请在原生库市场下载依赖的原生库 Libgdx Video，否则视频无法播放，启用3D模型会卡死。"
   },
   {
     "modid": "VideoTheSpire",
-    "notification": "请在原生库市场下载依赖的原生库 gdx-video，否则视频无法播放。"
+    "notification": "请在原生库市场下载依赖的原生库 Libgdx Video，否则视频无法播放。"
   },
   {
     "modid": "shadowverse_maps",
@@ -98,5 +98,13 @@
   {
     "modid": "coloredmap",
     "notification": "该模组不兼容“更大的 UI”，请在启用该模组时，在设置-游戏-更大的 UI 中关闭该选项。"
+  },
+  {
+    "modid": "sts-video-core",
+    "notification": "请在原生库市场下载依赖的原生库 Libgdx Video。"
+  },
+  {
+    "modid": "expansionPacks",
+    "notification": "卡包大师有俩模组，如果需要启用该扩展包，请一并启用卡包大师模组，扩展包没写依赖，不会自动一起启用。"
   }
 ]
