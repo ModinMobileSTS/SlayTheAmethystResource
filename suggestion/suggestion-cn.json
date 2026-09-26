@@ -29,11 +29,11 @@
   },
   {
     "modid": "FightPredictor",
-    "notification": "此模组已经支持，请在原生库市场下载所需的原生库。"
+    "notification": "此模组已经支持，请在设置-原生库市场下载所需的原生库。"
   },
   {
     "modid": "KanameMadoka",
-    "notification": "请在原生库市场下载依赖的原生库 Libgdx Video，否则视频无法播放，第二层 Boss 战会卡死。"
+    "notification": "请在设置-原生库市场下载依赖的原生库 Libgdx Video，否则视频无法播放，第二层 Boss 战会卡死。"
   },
   {
     "modid": "FrierenMod",
@@ -53,11 +53,11 @@
   },
   {
     "modid": "Blue archive Hina mod",
-    "notification": "请在原生库市场下载依赖的原生库 Libgdx Video，否则视频无法播放，启用3D模型会卡死。"
+    "notification": "请在设置-原生库市场下载依赖的原生库 Libgdx Video，否则视频无法播放，启用3D模型会卡死。"
   },
   {
     "modid": "VideoTheSpire",
-    "notification": "请在原生库市场下载依赖的原生库 Libgdx Video，否则视频无法播放。"
+    "notification": "请在设置-原生库市场下载依赖的原生库 Libgdx Video，否则视频无法播放。"
   },
   {
     "modid": "shadowverse_maps",
@@ -101,7 +101,7 @@
   },
   {
     "modid": "sts-video-core",
-    "notification": "请在原生库市场下载依赖的原生库 Libgdx Video。"
+    "notification": "请在设置-原生库市场下载依赖的原生库 Libgdx Video。"
   },
   {
     "modid": "expansionPacks",
