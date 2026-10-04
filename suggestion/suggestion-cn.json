@@ -106,5 +106,9 @@
   {
     "modid": "expansionPacks",
     "notification": "卡包大师有俩模组，如果需要启用该扩展包，请一并启用卡包大师模组，扩展包没写依赖，不会自动一起启用。"
+  },
+  {
+    "modid": "WordSpire",
+    "notification": "如果需要自定义单词，请将单词放在：/storage/emulated/0/Android/data/io.stamethyst/files/sts/mods/WordSpire/ 中"
   }
 ]
