@@ -109,6 +109,6 @@
   },
   {
     "modid": "WordSpire",
-    "notification": "如果需要自定义单词，请将单词放在：/storage/emulated/0/Android/data/io.stamethyst/files/sts/mods/WordSpire/ 中"
+    "notification": "如果需要自定义单词，请将单词放在：/storage/emulated/0/Android/data/io.stamethyst/files/sts/mods/WordSpire/ 中，不要用该模组自带的下载词库功能，因为词库的下载域名已经过期，下载下来的内容会导致游戏崩溃。如果你已经下载后导致崩溃，请删除前面提到的目录下的所有内容。"
   }
 ]
